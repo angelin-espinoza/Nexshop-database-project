@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/MySQL-Workbench-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" />
   <img src="https://img.shields.io/badge/SQL-25%20tablas-green?style=for-the-badge" alt="25 tablas SQL" />
   <img src="https://img.shields.io/badge/Consultas-14%20%2B%20extra-orange?style=for-the-badge" alt="14 consultas mas extra" />
-  <img src="https://komarev.com/ghpvc/?username=angeline-jose-molina-espinoza&label=VISUALIZACIONES&color=blueviolet&style=for-the-badge" alt="Visualizaciones" />
+  <img src="https://komarev.com/ghpvc/?username=angelin-espinoza&label=VISUALIZACIONES&color=blueviolet&style=for-the-badge" alt="Visualizaciones" />
 </p>
 
 <p align="center">
@@ -108,16 +108,12 @@ El modelo separa los pedidos online de las ventas presenciales porque representa
 
 También se separan precios históricos, promociones y condiciones de proveedor para no mezclar conceptos diferentes: el PVP base del producto, los descuentos temporales y el precio de coste negociado con cada proveedor.
 
-## Autora
-
-Angeline José Molina Espinoza
-
 Mini Proyecto Avanzado - Base de Datos | NexShop Group S.A.
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/angeline-jose-molina-espinoza/Nexshop-database-project/output/github-contribution-grid-snake.svg" alt="Animacion de contribuciones" />
+  <img src="https://raw.githubusercontent.com/angelin-espinoza/Nexshop-database-project/output/github-contribution-grid-snake.svg" alt="Animacion de contribuciones" />
 </p>
 
 <p align="center">
